@@ -1,3 +1,5 @@
+<img src="Resources/as.jpg" alt="drawing" width="300"/>
+
 # Alphabet Soup
 ## Project Overview
 In this module, we’ll explore and implement neural networks using the TensorFlow platform in Python. We’ll discuss the background and history of computational neurons as well as current implementations of neural networks as they apply to deep learning. We’ll discuss the major costs and benefits of different neural networks and compare these costs to traditional machine learning classification and regression models. Additionally, we’ll practice implementing neural networks and deep neural networks across a number of different datasets, including image, natural language, and numerical datasets. Finally, we’ll learn how to store and retrieve trained models for more robust use
