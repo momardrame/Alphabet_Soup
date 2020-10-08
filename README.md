@@ -60,3 +60,11 @@ Create a new README.txt file within the same folder as your AlphabetSoupChalleng
 - How many neurons and layers did you select for your neural network model? Why?
 - Were you able to achieve the target model performance? What steps did you take to try and increase model performance?
 - If you were to implement a different model to solve this classification problem, which would you choose? Why?
+
+
+## Background
+## Project Overview
+## Resources
+## Data Source
+## Machine Learning Model
+## Findings and Recommendation
